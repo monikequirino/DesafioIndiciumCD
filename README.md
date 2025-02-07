@@ -6,5 +6,5 @@
 
 #Instalação e execução: O acesso ao projeto demanda a instalação  da linguagem Python 3.
 O projeto foi executado no Jupyter Notebook, utilizando a IDE Anaconda.
-Para executar o projeto, você deve instalar os pacotes utilizados, os quais estão listados no arquivo 'requisitos.txt'
+Para executar o projeto, você deve instalar os pacotes utilizados, os quais estão listados no arquivo 'BibliotecasUtilizadas_Requirements.txt'
 
