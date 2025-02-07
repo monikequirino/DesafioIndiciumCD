@@ -1,0 +1,10 @@
+Bibliotecas utilizadas para análise exploratória:
+Pandas: 1.5.3
+NumPy: 1.24.2
+Matplotlib: 3.8.0
+Seaborn: 0.12.2
+Tabulate: 0.9.0
+
+Biliotecas utilizadas para modelo de predição:
+Sklearn 1.2.2
+
